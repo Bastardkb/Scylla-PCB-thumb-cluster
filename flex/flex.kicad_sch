@@ -3216,7 +3216,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE"
+		(property "Footprint" "customs:SK6812_mini_e_corners"
 			(at 176.022 87.122 0)
 			(effects
 				(font
@@ -3360,7 +3360,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE"
+		(property "Footprint" "customs:SK6812_mini_e_corners"
 			(at 156.337 87.122 0)
 			(effects
 				(font
@@ -4109,7 +4109,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE"
+		(property "Footprint" "customs:SK6812_mini_e_corners"
 			(at 116.967 87.122 0)
 			(effects
 				(font
@@ -4185,7 +4185,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE_NO_EDGECUT"
+		(property "Footprint" "customs:SK6812_mini_e_corners_noedgecuts"
 			(at 116.967 109.982 0)
 			(effects
 				(font
@@ -4261,7 +4261,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE_NO_EDGECUT"
+		(property "Footprint" "customs:SK6812_mini_e_corners_noedgecuts"
 			(at 97.282 109.982 0)
 			(effects
 				(font
@@ -4337,7 +4337,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE_NO_EDGECUT"
+		(property "Footprint" "customs:SK6812_mini_e_corners_noedgecuts"
 			(at 136.652 109.982 0)
 			(effects
 				(font
@@ -4479,7 +4479,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE_NO_EDGECUT"
+		(property "Footprint" "customs:SK6812_mini_e_corners_noedgecuts"
 			(at 156.337 109.982 0)
 			(effects
 				(font
@@ -4555,7 +4555,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE"
+		(property "Footprint" "customs:SK6812_mini_e_corners"
 			(at 97.282 87.122 0)
 			(effects
 				(font
@@ -4631,7 +4631,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE_NO_EDGECUT"
+		(property "Footprint" "customs:SK6812_mini_e_corners_noedgecuts"
 			(at 176.022 109.982 0)
 			(effects
 				(font
@@ -4770,7 +4770,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "libs2:YS-SK6812MINI-E_REVERSE"
+		(property "Footprint" "customs:SK6812_mini_e_corners"
 			(at 136.652 87.122 0)
 			(effects
 				(font
